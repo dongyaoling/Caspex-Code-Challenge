@@ -1,0 +1,31 @@
+body {
+  background-color: #0B0B3B
+}
+.main{
+  width: 60%;
+  padding: 25px;
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.button{
+  border-radius: 0px;
+  text-align: center;
+  background-color: white;
+  text-decoration: none;
+  border: none;
+  height: 30px;
+}
+
+.container{
+  background-color: white;
+  margin: 20px;
+  text-align: center;
+}
+
+.container img {
+  width: 95%;
+}
